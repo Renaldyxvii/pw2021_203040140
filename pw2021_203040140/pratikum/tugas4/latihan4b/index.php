@@ -11,7 +11,7 @@ Praktikum PW SHIFT JUMAT JAM 13:00
 // Menghubungkan dengan file php lainya 
 require 'php/function.php';
 
-//melakukan query biasa ke table hijab
+
 $games = query("SELECT * FROM equipment_ml");
 
 ?>
